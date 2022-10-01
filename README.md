@@ -1,4 +1,4 @@
-# readme
+# README
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">Studiyng DEV and Games and Technology lover</h3>
 
