@@ -5,6 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j0s0ao" alt="j0s0ao" /></a> </p>
 
 - 🌱 I’m currently learning **JS,Node.JS,Python,SQL,PHP and CSS at Jovem Programador - SENAC**
+- 🌱 I'm currently studing Computer Science in IFC Campus Concórdia 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
