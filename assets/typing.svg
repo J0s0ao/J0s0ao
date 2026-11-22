@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="44" viewBox="0 0 640 44">
+<style>.t{font-family:'Fira Code',Consolas,monospace;font-size:22px;font-weight:600;fill:#00d9a6}</style>
+<defs><clipPath id="c0"><rect x="0" y="0" height="44" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;245;245;0;0" keyTimes="0.000;0.100;0.210;0.240;1.000"/></rect></clipPath>
+<clipPath id="c1"><rect x="0" y="0" height="44" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;458;458;0;0" keyTimes="0.000;0.250;0.350;0.460;0.490;1.000"/></rect></clipPath>
+<clipPath id="c2"><rect x="0" y="0" height="44" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;392;392;0;0" keyTimes="0.000;0.500;0.600;0.710;0.740;1.000"/></rect></clipPath>
+<clipPath id="c3"><rect x="0" y="0" height="44" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;378;378;0" keyTimes="0.000;0.750;0.850;0.960;1.000"/></rect></clipPath>
+</defs>
+<g clip-path="url(#c0)"><text x="200.3" y="30" class="t">Olá, eu sou o João</text></g>
+<g clip-path="url(#c1)"><text x="93.9" y="30" class="t">Estudante de Ciência da Computação</text></g>
+<g clip-path="url(#c2)"><text x="127.1" y="30" class="t">Apaixonado por Backend e APIs</text></g>
+<g clip-path="url(#c3)"><text x="133.8" y="30" class="t">Transformando café em código</text></g>
+</svg>
