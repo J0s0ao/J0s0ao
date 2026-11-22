@@ -1,11 +1,11 @@
-<!-- ⚠️ Troque todas as ocorrências de J0s0ao pelo seu username do GitHub -->
+<!-- README v3: banner.svg + typing.svg + terminal.svg locais (pasta assets/) -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=João%20Vitor%20Raimundi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Ciência%20da%20Computação&descSize=18&descAlignY=60" alt="banner"/>
+<img width="100%" src="./assets/banner.svg" alt="Banner João Vitor Raimundi"/>
 
 <div align="center">
 
 <a href="https://github.com/J0s0ao">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9A6&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+João+%F0%9F%91%8B;Estudante+de+Ciência+da+Computação+%F0%9F%8E%93;Apaixonado+por+Backend+%26+APIs+%E2%9A%99%EF%B8%8F;Transformando+café+em+código+%E2%98%95" alt="Typing SVG" />
+  <img src="./assets/typing.svg" alt="Digitando" width="640"/>
 </a>
 
 <br/>
