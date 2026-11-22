@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/><stop offset="0.5" stop-color="#203a43"/><stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#00d9a6" stop-opacity="0.35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="900" height="220" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="900" height="220" fill="url(#bg)"/>
+    <rect x="-300" y="0" width="300" height="220" fill="url(#shine)">
+      <animate attributeName="x" from="-300" to="900" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="90" cy="60" r="4" fill="#00d9a6" opacity=".6"><animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="160" r="5" fill="#00d9a6" opacity=".5"><animate attributeName="cy" values="160;135;160" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="50" r="3" fill="#fff" opacity=".4"><animate attributeName="cy" values="50;70;50" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="140" cy="170" r="3" fill="#fff" opacity=".4"><animate attributeName="cy" values="170;150;170" dur="4.5s" repeatCount="indefinite"/></circle>
+    <text x="450" y="100" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#fff">João Vitor Raimundi
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/></text>
+    <text x="450" y="145" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" fill="#00d9a6" letter-spacing="2">Backend Developer  •  Ciência da Computação
+      <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="1.2s" fill="freeze"/></text>
+    <rect x="360" y="165" width="180" height="3" rx="1.5" fill="#00d9a6"><animate attributeName="width" values="0;180;180" keyTimes="0;0.4;1" dur="3s" fill="freeze"/><animate attributeName="x" values="450;360;360" keyTimes="0;0.4;1" dur="3s" fill="freeze"/></rect>
+  </g>
+</svg>
